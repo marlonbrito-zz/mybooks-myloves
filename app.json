@@ -1,0 +1,12 @@
+{
+  "name": "mybooks-myloves",
+  "displayName": "mybooks-myloves",
+  "expo": {
+    "name": "mybooks-myloves",
+    "slug": "mybooks-myloves",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
