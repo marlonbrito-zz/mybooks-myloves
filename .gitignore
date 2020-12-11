@@ -21,7 +21,8 @@ DerivedData
 *.ipa
 *.xcuserstate
 project.xcworkspace
-
+utils/keys.js
+.env
 # Android/IntelliJ
 #
 build/

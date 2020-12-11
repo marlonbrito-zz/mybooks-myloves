@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "451852456839",
+    "firebase_url": "https://mybooks-myloves.firebaseio.com",
+    "project_id": "mybooks-myloves",
+    "storage_bucket": "mybooks-myloves.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451852456839:android:37cfdfc62fa3449ac83922",
+        "android_client_info": {
+          "package_name": "com.mybooksmyloves"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451852456839-0v27pfd2pl7d2pkb0abnbh1s89eo1uqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1nyfMUQyZkcb0P21raaNCydJMpP1DG6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451852456839-0v27pfd2pl7d2pkb0abnbh1s89eo1uqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
